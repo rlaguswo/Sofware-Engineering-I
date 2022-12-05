@@ -7,3 +7,6 @@
 [submodule "Assignment7"]
 	path = Assignment7
 	url = https://github.com/rlaguswo/Assignment7-Microservice-for-Partner-s-project
+[submodule "Assignment8"]
+	path = Assignment8
+	url = https://github.com/rlaguswo/Assignment8
